@@ -246,6 +246,7 @@ footer{
 	text-shadow: 2px 2px 2px red;
 	
 }
+/* responsive css */
 @media only screen and (max-width: 768px) {
 	.aboutbody{
 		flex-direction: column;
