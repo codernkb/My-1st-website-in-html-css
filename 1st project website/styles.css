@@ -257,4 +257,16 @@ footer{
 	.products-img{
 		float: none;
 	}
+	.sm{
+		font-size: 1.5em;
+	        color: yellow;
+	        position: fixed;
+	        top: 200px;
+	        right: 0;
+	        border-radius: 15px;
+           }
+       .fb:hover{
+	       color: cyan;
+	       font-size: 25px;
+          }
 }
